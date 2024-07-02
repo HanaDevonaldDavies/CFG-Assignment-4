@@ -17,9 +17,9 @@ This project implements a simple Flask API for managing books and authors in a b
    Run the Flask application (app.py)
 2. API Endpoints:
 
-GET /books: Retrieve all books from the database.
-POST /books: Add a new book to the database.
-GET /authors: Retrieve all authors from the database.
+- GET /books: Retrieve all books from the database.
+- POST /books: Add a new book to the database.
+- GET /authors: Retrieve all authors from the database.
 
 ### Example API Interactions
 - Retrieve all books
